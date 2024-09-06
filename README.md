@@ -10,6 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-stack&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ajmal-stack&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ajmal&label=Profile%20Views&color=9&icon=6&pretty=false" />
+</a>)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
